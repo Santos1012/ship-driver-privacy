@@ -1,8 +1,8 @@
-# Privacy Policy for Ship-driver
+# Privacy Policy for On One driver
 
 **Last updated: December 2025**
 
-This Privacy Policy describes how **Ship-driver**, developed by **Omar**, collects, uses, and protects your information when you use our mobile application.
+This Privacy Policy describes how **On One driver**, developed by **Omar**, collects, uses, and protects your information when you use our mobile application.
 
 By using Ship-driver, you agree to the collection and use of information as described in this policy.
 
@@ -74,7 +74,7 @@ To request data deletion, contact us at: **santawyomar@gmail.com**
 ---
 
 ## 6. Children’s Privacy
-Ship-driver is **not intended for children under 13 years old**.  
+Ship-driver is **not intended for children under 16 years old**.  
 We do not knowingly collect data from children.
 
 ---
